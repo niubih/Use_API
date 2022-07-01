@@ -1,0 +1,3 @@
+Use_API
+通过ploty和requests库，爬取了github上最受欢迎的30个仓库，并绘制成图表显示出来
+运用pyinstaller封装成了exe文件
